@@ -1,0 +1,2 @@
+## Tech stack
+- Spring Boot
